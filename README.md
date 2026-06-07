@@ -214,7 +214,7 @@ The manuscript is included in this repository for reference and documentation pu
 
 The companion manuscript can be found in:
 
-paper/QuantumCFD_Manuscript.pdf
+QuantumCFD_Manuscript.pdf
 
 ---
 
