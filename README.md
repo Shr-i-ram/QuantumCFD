@@ -185,6 +185,37 @@ FLUID_SOLVERS/
 └── LICENSE
 ```
 
+# Companion Manuscript
+
+This repository accompanies the manuscript:
+
+**Classical and Quantum Approaches for Nonlinear 2D Navier–Stokes: A Deep Comparative Study of Pseudo-Spectral, PINN, VQ-PINN, and Quantum Linear Solvers**
+
+**Author:** Shriram Narayanan
+
+The manuscript presents a comparative investigation of four solver paradigms for the two-dimensional incompressible Navier–Stokes equations on the Taylor–Green vortex benchmark:
+
+* Classical Pseudo-Spectral Solver
+* Physics-Informed Neural Network (PINN)
+* Variational Quantum Physics-Informed Neural Network (VQ-PINN)
+* Variational Quantum Linear Solver (VQLS)
+
+This repository contains the implementation, experiments, benchmarking framework, and supporting code described in the manuscript. The project was developed to study the intersection of:
+
+* Computational Fluid Dynamics (CFD)
+* Physics-Informed Machine Learning
+* Quantum Machine Learning
+* Variational Quantum Algorithms
+* Hybrid Classical–Quantum Scientific Computing
+
+The manuscript is included in this repository for reference and documentation purposes and should be considered a research report accompanying the codebase rather than a formally published publication.
+
+## Manuscript
+
+The companion manuscript can be found in:
+
+paper/QuantumCFD_Manuscript.pdf
+
 ---
 
 # Scientific Background
