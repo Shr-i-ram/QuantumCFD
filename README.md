@@ -1,4 +1,4 @@
-# FLUID_SOLVERS
+# QUANTUMCFD
 
 A research-oriented framework for solving the incompressible Navier–Stokes equations using a combination of classical numerical methods, Physics-Informed Neural Networks (PINNs), Variational Quantum Physics-Informed Neural Networks (VQPINNs), and Variational Quantum Linear Solvers (VQLS).
 
