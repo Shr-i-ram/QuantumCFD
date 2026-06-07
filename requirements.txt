@@ -1,0 +1,15 @@
+numpy>=1.24
+scipy>=1.11
+pandas>=2.0
+
+matplotlib>=3.8
+
+torch>=2.2
+
+pennylane>=0.40
+
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.29
+
+tqdm>=4.66
